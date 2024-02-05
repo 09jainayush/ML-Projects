@@ -1,0 +1,1 @@
+ML Project to classify Turkish Music Emotions in which Scikit-Learn Module is used to fetch different ML Algorithms & Accuracy Parameters and then evaluated & compared the performance of Algorithms using PCA & LDA 
