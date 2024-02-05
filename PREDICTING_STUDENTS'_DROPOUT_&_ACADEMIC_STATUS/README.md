@@ -1,0 +1,1 @@
+A ML Project to predict the Students' dropout & academic status in which Scikit-Learn Module is used to fetch different ML Algorithms & Accuracy Parameters and then Evaluated & compared the performance of Algorithms via GridSearch Method
