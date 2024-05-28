@@ -1,1 +1,1 @@
-ML Project to detect Hallucinations in Contextual Question Answering Using ML/NLP with the help of RAG Model provided by Vectara in Hugging Face
+The project aims to detect Hallucinations in Context Based Question Answering System using ML/NLP Concepts. The model uses Cross Encoder & Retrieval Augmented Generation (RAG) from Vectara's API through Hugging Face which helps to perfectly detect the hallucinations in the system. To help with Computation Resources, Google Colab and its T4 GPU was used.
